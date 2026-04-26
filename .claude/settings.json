@@ -21,7 +21,10 @@
       "mcp__github__list_issues",
       "mcp__github__add_issue_comment",
       "mcp__github__get_pull_request_reviews",
-      "mcp__github__get_pull_request_status"
+      "mcp__github__get_pull_request_status",
+      "Read(/Users/nikitamikhailov/Documents/SilentCare/**)",
+      "Edit(/Users/nikitamikhailov/Documents/SilentCare/**)",
+      "mcp__plugin_telegram_telegram__reply"
     ]
   }
 }
