@@ -1,20 +1,20 @@
-# SilentCare Workspace
+# OdeCare Workspace
 
 ## Система
 
-HomeCare IoT — платформа удалённого мониторинга пациентов. Устройства → MQTT → backend → web/mobile/landing.
-GitHub org: https://github.com/SilentCare-so/
+OdeCare IOT — платформа удалённого мониторинга пациентов. Устройства → MQTT → backend → web/mobile/landing.
+GitHub org: https://github.com/OdeCare/
 
 ## Репо
 
 | Репо | Назначение | Slug |
 |------|-----------|------|
-| homecare-backend | API сервер, бизнес-логика, MQTT, устройства | SilentCare-so/homecare-backend |
-| homecare-web | Dashboard SPA (silentcare.co/app) | SilentCare-so/homecare-web |
-| homecare-mobile | iOS/Android приложение | SilentCare-so/homecare-mobile |
-| homecare-landing | Маркетинговый сайт (silentcare.co/) | SilentCare-so/homecare-landing |
-| homecare-platform | Инфраструктура, docker-compose, telegram-bot | SilentCare-so/homecare-platform |
-| ec-supplier-agent | Локальный инструмент работы с поставщиками | SilentCare-so/ec-supplier-agent |
+| odecare-backend | API сервер, бизнес-логика, MQTT, устройства | OdeCare/odecare-backend |
+| odecare-web | Dashboard SPA (odecare.com/app) | OdeCare/odecare-web |
+| odecare-mobile | iOS/Android приложение | OdeCare/odecare-mobile |
+| odecare-landing | Маркетинговый сайт (odecare.com/) | OdeCare/odecare-landing |
+| odecare-platform | Инфраструктура, docker-compose, telegram-bot | OdeCare/odecare-platform |
+| ec-supplier-agent | Локальный инструмент работы с поставщиками | OdeCare/ec-supplier-agent |
 
 ## Общие правила
 
